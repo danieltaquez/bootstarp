@@ -1,2 +1,2 @@
-# bootstarp
+# bootstrap
 DUbootcamp_hw2
