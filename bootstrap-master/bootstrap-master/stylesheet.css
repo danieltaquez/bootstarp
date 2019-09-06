@@ -67,6 +67,7 @@ main {
 
 .port-image {
   margin: 20px auto;
+  max-width:100%
 }
 
 .submit-btn {
